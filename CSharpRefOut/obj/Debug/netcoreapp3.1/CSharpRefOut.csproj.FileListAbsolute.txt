@@ -1,0 +1,14 @@
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\bin\Debug\netcoreapp3.1\CSharpRefOut.exe
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\bin\Debug\netcoreapp3.1\CSharpRefOut.deps.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\bin\Debug\netcoreapp3.1\CSharpRefOut.runtimeconfig.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\bin\Debug\netcoreapp3.1\CSharpRefOut.runtimeconfig.dev.json
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\bin\Debug\netcoreapp3.1\CSharpRefOut.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\bin\Debug\netcoreapp3.1\CSharpRefOut.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\obj\Debug\netcoreapp3.1\CSharpRefOut.csproj.AssemblyReference.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\obj\Debug\netcoreapp3.1\CSharpRefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\obj\Debug\netcoreapp3.1\CSharpRefOut.AssemblyInfoInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\obj\Debug\netcoreapp3.1\CSharpRefOut.AssemblyInfo.cs
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\obj\Debug\netcoreapp3.1\CSharpRefOut.csproj.CoreCompileInputs.cache
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\obj\Debug\netcoreapp3.1\CSharpRefOut.dll
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\obj\Debug\netcoreapp3.1\CSharpRefOut.pdb
+C:\Users\yusifizcode\Desktop\CodeAcademy\CSharp-Methods\CSharpRefOut\obj\Debug\netcoreapp3.1\CSharpRefOut.genruntimeconfig.cache
